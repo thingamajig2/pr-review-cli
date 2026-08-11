@@ -1,2 +1,4 @@
-anthropic==0.32.0
-click==8.1.7
+anthropic
+click
+flask==3.0.0
+flask-cors==4.0.0
